@@ -1,7 +1,7 @@
 pipeline {
      agent any
      stages {
-         stage("hii"){
+         stage("hii gaju"){
              steps{
                  echo "welcome to jenkins pipeline"
              }
