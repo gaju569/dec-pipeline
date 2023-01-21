@@ -3,7 +3,7 @@ pipeline {
      stages {
          stage("hii gaju"){
              steps{
-                 echo "this is jenkins pipeline"
+                 echo "welcome to jenkins pipeline"
              }
          }
      }
