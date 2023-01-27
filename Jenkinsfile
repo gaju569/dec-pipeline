@@ -3,7 +3,7 @@ pipeline {
      stages {
          stage("hii gaju"){
              steps{
-                 echo "this is github"
+                 echo "hii,this is gaju"
              }
          }
      }
