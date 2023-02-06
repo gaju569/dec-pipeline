@@ -9,7 +9,7 @@ pipeline {
         stage('test the code'){
             steps {
                 echo "testing is completed"
-                echo "compile is completed"
+                
             }
         }    
         stage('build the code'){
